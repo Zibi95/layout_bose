@@ -8,7 +8,7 @@ This Landing Page was built as a simple example of a responsive and visually ple
 The Landing Page includes the following features:
 
 A responsive layout that adjusts to different screen sizes
-A smooth and tranistions and scroll behavior
+A smooth tranistions and scroll behavior
 A navigation that collapses into a burger menu
 A header section with a large image and call button
 A recommended section with images and example prices
