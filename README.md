@@ -25,8 +25,8 @@ The Landing Page includes the following features:
 The Landing Page was built using the following technologies:
 
 ### -HTML
-### -CSS
 ### -SCSS
+### -JS
 
 ## Credits
 This Landing Page was build by me [Zibi95](https://github.com/Zibi95) as an exercise project. Layout and all the pictures where taken from this [mockup](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=26%3A180&t=9H4ka3nbyNmCZAcR-0).
