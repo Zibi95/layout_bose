@@ -2,7 +2,7 @@
 
 [DEMO LINK](https://Zibi95.github.io/layout_miami/)
 
-This Landing Page was built as a simple example of a responsive and visually pleasing website using HTML and SCSS.
+This Landing Page was built as a simple example of a responsive and visually pleasing website using HTML and SCSS following BEM methodology.
 
 ## Features
 The Landing Page includes the following features:
