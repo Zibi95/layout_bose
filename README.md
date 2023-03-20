@@ -1,9 +1,9 @@
-#BOSE Landign Page
+# BOSE Landign Page
 
 [DEMO LINK](https://Zibi95.github.io/layout_miami/)
 This Landing Page was built as a simple example of a responsive and visually pleasing website using HTML, CSS, and SCSS.
 
-##Features
+## Features
 The Landing Page includes the following features:
 
 A responsive layout that adjusts to different screen sizes
@@ -14,15 +14,15 @@ A recommended section with images and example prices
 A categories section with images and descriptions
 A contact section with a form and submit button
 
-##Technologies Used
+## Technologies Used
 The Landing Page was built using the following technologies:
 
-###HTML
-###CSS
-###SCSS
+### HTML
+### CSS
+### SCSS
 
-##Credits
+## Credits
 This Landing Page was build by me as an exercise project. Layout and all the pictures where taken from this [mockup](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=26%3A180&t=9H4ka3nbyNmCZAcR-0).
 
-##License
+## License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
