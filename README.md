@@ -29,7 +29,7 @@ The Landing Page was built using the following technologies:
 ### SCSS
 
 ## Credits
-This Landing Page was build by me as an exercise project. Layout and all the pictures where taken from this [mockup](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=26%3A180&t=9H4ka3nbyNmCZAcR-0).
+This Landing Page was build by me [Zibi95](https://github.com/Zibi95) as an exercise project. Layout and all the pictures where taken from this [mockup](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=26%3A180&t=9H4ka3nbyNmCZAcR-0).
 
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
