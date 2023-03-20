@@ -1,4 +1,5 @@
 #BOSE Landign Page
+
 [DEMO LINK](https://Zibi95.github.io/layout_miami/)
 This Landing Page was built as a simple example of a responsive and visually pleasing website using HTML, CSS, and SCSS.
 
