@@ -1,4 +1,4 @@
-# BOSE Landign Page
+# BOSE Landing Page
 
 [DEMO LINK](https://Zibi95.github.io/layout_miami/)
 
